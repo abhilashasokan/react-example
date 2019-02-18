@@ -28,3 +28,17 @@
 .username {
   color: red;
 }
+
+.PersonsCard {
+  margin-top: 10px;
+}
+
+.button-margin{
+  margin-top: 10px;
+}
+
+.changeName {
+  width: 25% !important;
+  right: 30px; 
+  position: absolute;
+}
